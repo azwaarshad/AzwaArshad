@@ -1,5 +1,5 @@
                                                    
-                                                   Hi 👋, I'm Azwa Arshad
+                                                  Hi 👋, I'm Azwa Arshad
 
 I'm Azwa Arshad, I'm currently learning Artificial Intelligence(AI) and Internet of Things(IoT). I am a Python developer.
 <!--
