@@ -1,7 +1,7 @@
                                                    
                                                   Hi 👋, I'm Azwa Arshad
 
-I'm Azwa Arshad, I'm a "Python" developer and I'm currently learning Artificial Intelligence(AI) and Internet of Things(IoT).
+I am Azwa Arshad, I am an "IoT" developer and also a "Python" developer.I am currently learning Artificial Intelligence(AI).
 <!--
 **azwaarshad/AzwaArshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
